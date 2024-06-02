@@ -1,7 +1,14 @@
 
 ## Getting Started
 
-First, run the development server:
+Firstly, run the command:
+
+```bash
+npm install
+```
+to download the "node-modules" file.
+
+then, run the development server:
 
 ```bash
 npm run dev
